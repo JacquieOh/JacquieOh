@@ -1,10 +1,9 @@
-👋 Hi there, I am Jacquie
+👋 Hi there, I am Jacquie 😄 
 </br>
 
-- 🌱 I’m currently learning the back end with Node
-- 🔭 I’m already working on a website for an International Human Rights Lawyers Association
+- 🌱 I’m currently learning the back end with Node.js.
+- 🔭 I recently finished my first responsive website for an International Human Rights Lawyers Association using HTML, CSS, Bootstrap, a little JavaSript and PHP.
 - 👯 I would be thrilled to find a Mentor or someone to work on projects together
-- 😄 Pronouns: We/ Us
 
 ### Languages and Tools
 
